@@ -12,6 +12,7 @@ gem "cancan"
 gem "rolify"
 gem "simple_form"
 gem "omniauth-twitter"
+gem "omniauth-facebook"
 
 group :development do
 	gem "quiet_assets"
